@@ -1,4 +1,4 @@
-## Technological tools
+## Tech stack
 * Java 11
 * Maven 3.6
 * Quarkus
